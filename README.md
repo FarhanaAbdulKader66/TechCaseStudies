@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/farhana259abdulkader/2cc83765-1af3-4a5b-ac5e-244203607a1a/aa40fbd9-21a4-4411-9c1d-3897c94377bd/_apis/work/boardbadge/567f13c6-c8a3-4347-ba38-85df414e8494)](https://dev.azure.com/farhana259abdulkader/2cc83765-1af3-4a5b-ac5e-244203607a1a/_boards/board/t/aa40fbd9-21a4-4411-9c1d-3897c94377bd/Microsoft.RequirementCategory)
 # Technical Case Studies
 
 | Customer  | Country        | Industry              | Size       | Key Technologies                         | Publish date |
